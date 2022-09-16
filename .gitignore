@@ -1,0 +1,4 @@
+.github/workflows
+.ipynb_checkpoints
+__pycache__
+.Rhistory
